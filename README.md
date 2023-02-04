@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beste!</h1>
-<h3 align="center">A passionate Android developer from Turkey</h3>
+<h3 align="center">A passionate Software Tester and Android Developer from Turkey</h3>
 
 - 📫 How to reach me **beste.morgul@gmail.com**
 
